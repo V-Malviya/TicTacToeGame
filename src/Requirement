@@ -1,0 +1,5 @@
+1. Application supports n*n size board n>=3;
+2. Max and min number of players n-1 and 2 with each player having different symbol including bot;
+3. Application supports bot player provided at least one human player and has difficulty level.
+4. Application support undo functionality.
+5. No data is preserved.
